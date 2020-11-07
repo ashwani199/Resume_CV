@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+}
+.heading{
+    text-align: center;
+}
+img{
+    width: 15%;
+    height: auto;
+}
+#left{
+    text-align: right;
+}
